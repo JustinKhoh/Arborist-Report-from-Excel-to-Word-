@@ -8,6 +8,7 @@ Converts this:
 
 
 To this:
+
 ![alt text](https://github.com/JustinKhoh/Arborist-Report-from-Excel-to-Word-/blob/main/Word%20Table.jpg?raw=true)
 
 Before you start, your working directory should look something similar to this
