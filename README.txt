@@ -15,7 +15,6 @@ Part 1: Convert all rows into individual Word docx
 Part 2: Append all Word docx into 1 Word file
 
 NOTE: There is a sample "Tree.xlsx" file and "Photos" folder for a trial run. Missing photos are intentional to test the code
-NOTE: 
 #################################################################################################
 The code is done purely on python an requires the installation of several libraries for it to work.
 (if on windows machine)
